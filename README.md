@@ -25,8 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
