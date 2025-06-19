@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
