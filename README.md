@@ -69,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1268-market-analysis-i](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1268-market-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1278-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
