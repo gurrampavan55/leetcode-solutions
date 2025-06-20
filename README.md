@@ -65,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0601-human-traffic-of-stadium](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
