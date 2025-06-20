@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
