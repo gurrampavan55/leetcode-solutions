@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3767-find-students-who-improved](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3767-find-students-who-improved) |
 | [3848-analyze-subscription-conversion](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3848-analyze-subscription-conversion) |
 | [3865-find-product-recommendation-pairs](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3865-find-product-recommendation-pairs) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
