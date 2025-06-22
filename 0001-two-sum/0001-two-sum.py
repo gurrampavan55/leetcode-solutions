@@ -11,4 +11,3 @@ class Solution(object):
             if comp in hashmap:
                 return [hashmap[comp],i]
             hashmap[num]=i
-        
