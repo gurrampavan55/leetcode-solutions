@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0344-reverse-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
