@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0890-lemonade-change) |
 ## Interactive
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0292-nim-game) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
