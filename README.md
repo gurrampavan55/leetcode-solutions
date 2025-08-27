@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
