@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [3194-find-words-containing-character](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Interactive
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [3194-find-words-containing-character](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
 |  |
 | ------- |
