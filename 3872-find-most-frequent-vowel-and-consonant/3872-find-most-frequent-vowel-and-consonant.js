@@ -7,7 +7,7 @@ var maxFreqSum = function(s) {
 
     // Count frequency of each character
     for (let char of s) {
-        map.set(char, (map.get(char) || 0) + 1);
+        map.set(char,(map.get(char)||0)+1);
     }
 
     let vowels = new Set(['a', 'e', 'i', 'o', 'u']);
