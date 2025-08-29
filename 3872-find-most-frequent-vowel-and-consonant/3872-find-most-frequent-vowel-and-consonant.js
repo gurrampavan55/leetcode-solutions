@@ -5,12 +5,7 @@
 var maxFreqSum = function(s) {
     let map=new Map();
     for(let char of s){
-        if(!map[char]){
-            map[char]=1;
-        }
-        else{
-            map[char]++;
-        }
+        map[char]=!map[char]?1:++map[char];
     }
     let vowels=['a','e','i','o','u'];
     let max_vowel=0;
