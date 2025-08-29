@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [3194-find-words-containing-character](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
 |  |
