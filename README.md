@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0169-majority-element) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3194-find-words-containing-character](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -152,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
