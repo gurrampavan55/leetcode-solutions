@@ -8,7 +8,8 @@ var numJewelsInStones = function(jewels, stones) {
     let Jset=new Set(jewels);
     for (let char of stones){
         if(Jset.has(char)){
-           count++
+           count++;
+           
         }
     }
     return count
