@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -159,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0890-lemonade-change](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
