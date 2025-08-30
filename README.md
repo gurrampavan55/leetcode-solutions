@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0541-reverse-string-ii](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3194-find-words-containing-character](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3194-find-words-containing-character) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 ## Brainteaser
 |  |
 | ------- |
