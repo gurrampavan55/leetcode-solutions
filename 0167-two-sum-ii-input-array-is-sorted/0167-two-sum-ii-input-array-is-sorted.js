@@ -4,13 +4,19 @@
  * @return {number[]}
  */
 var twoSum = function(numbers, target) {
-    let map={}
-    for(let i=0;i<numbers.length;i++){
-        comp=target-numbers[i]
-        if(comp in map){
-            return [map[comp]+1,i+1]
+    let i=0;
+    let j=numbers.length-1;
+    while(i<j){
+        let su=numbers[i]+numbers[j]
+        if(su>target){
+            --j
+        }else if(su<target){
+            ++i
+        }else{
+            return [i+1,j+1]
         }
-        map[numbers[i]]=i
+   
+
     }
-    
+     return [-1]
 };
