@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0792-binary-search) |
 ## Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [3194-find-words-containing-character](https://github.com/gurrampavan55/leetcode-solutions/tree/master/3194-find-words-containing-character) |
