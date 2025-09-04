@@ -3,9 +3,10 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    let xor=0;
-    for(let i=0;i<nums.length;i++){
-        xor=xor^nums[i]
+    
+    let x=0
+    for(let num of nums){
+        x=x^num
     }
-    return xor
+    return x
 };
