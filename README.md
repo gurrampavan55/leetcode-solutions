@@ -191,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
