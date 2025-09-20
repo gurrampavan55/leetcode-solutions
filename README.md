@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0504-base-7](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/gurrampavan55/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/gurrampavan55/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
